@@ -1,7 +1,5 @@
 <a href="#"> <img  src="./SVG/jelly2.svg" alt="Image" ></a>
 
-<br/>
-<hr/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GaneshMystic&show_icons=true&locale=en&layout=compact" alt="GaneshMystic" />
 </p>
@@ -11,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img width="610px" src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshMystic&" alt="GaneshMystic" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=GaneshMystic&hide_border=true&border_radius=32&mode=weekly&card_width=610&fire=EB5454" alt="GitHub Streak" /></a>
 </p>
